@@ -1325,3 +1325,23 @@ a.learn-more:hover .button-text {
     letter-spacing: -0.33px;
     line-height: 30px;
 }
+
+.incubator-header-container {
+    margin-top: 200px;
+}
+
+.white {
+    color: white;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 89px;
+    letter-spacing: -1.24px;
+    line-height: 83px;
+}
+
+.violet {
+    color: #33008B;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 89px;
+    letter-spacing: -1.24px;
+    line-height: 83px;
+}
