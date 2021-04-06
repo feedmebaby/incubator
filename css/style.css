@@ -1327,21 +1327,65 @@ a.learn-more:hover .button-text {
 }
 
 .incubator-header-container {
-    margin-top: 200px;
+    margin-top: 120px;
 }
 
-.white {
+.incubator-sub-header-container {
+    margin-top: 90px;
+}
+
+.incubator-free-call-container {
+    margin-top: 30px;
+}
+
+.white-header {
     color: white;
     font-family: "NeueHaasGroteskText Pro Md";
     font-size: 89px;
     letter-spacing: -1.24px;
     line-height: 83px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
-.violet {
+.white-sub-header {
+    color: #BBBBBB;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 20px;
+    letter-spacing: -0.28px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.violet-header {
     color: #33008B;
     font-family: "NeueHaasGroteskText Pro Md";
     font-size: 89px;
     letter-spacing: -1.24px;
     line-height: 83px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.free-call-button {
+    border: 1px solid #979797;
+    border-radius: 10px;
+    color: #BBBBBB;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 16px;
+    line-height: 36px;
+    height: 55px;
+    width: 221px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.free-call-button span {
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 14px;
+    letter-spacing: -0.28px;
+}
+
+.free-call-button:hover {
+    color: #BBBBBB;
 }
