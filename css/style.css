@@ -1389,3 +1389,18 @@ a.learn-more:hover .button-text {
 .free-call-button:hover {
     color: #BBBBBB;
 }
+
+.nav-bar-padding {
+    padding: 0.5rem 0;
+}
+
+body {
+    padding: 0 !important;
+}
+
+@media(min-width: 992px),
+(min-width: 1200px) {
+    body {
+        padding: 0 !important;
+    }
+}
