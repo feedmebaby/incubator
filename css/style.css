@@ -1356,16 +1356,10 @@ a.learn-more:hover .button-text {
 
 .col-have-and-bring {
     width: 948px !important;
-}
-
-.col-have-and-bring:after {
-    content: "+";
-    font-size: 300px;
-    width: 948px !important;
-    text-align: center;
-    top: -100;
-    left: 0;
-    z-index: -1;
+    background-image: url('../images/+.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
 }
 
 .white-header {
@@ -1459,7 +1453,7 @@ body {
     background-color: #D8D8D8;
     border-radius: 12.35px;
     margin-right: 15px;
-    margin-bottom: 0px;
+    margin-bottom: 4px;
 }
 
 .iteration-next-first {
