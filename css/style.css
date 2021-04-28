@@ -1402,6 +1402,17 @@ a.learn-more:hover .button-text {
     margin-bottom: 0;
 }
 
+.white-header2 {
+    color: white;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 63px;
+    letter-spacing: -0.88px;
+    line-height: 68px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .white-sub-header {
     color: #BBBBBB;
     font-family: "NeueHaasGroteskText Pro Md";
