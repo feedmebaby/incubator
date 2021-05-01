@@ -1422,6 +1422,16 @@ a.learn-more:hover .button-text {
     margin-bottom: 0;
 }
 
+.blue-sub-header {
+    color: #0000FF;
+    font-family: "NeueHaasGroteskText Pro Md";
+    font-size: 31px;
+    letter-spacing: -0.42px;
+    margin-top: 290px;
+    margin-bottom: 50px;
+
+} 
+
 .violet-header {
     color: #33008B;
     font-family: "NeueHaasGroteskText Pro Md";
