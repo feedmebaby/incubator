@@ -1614,3 +1614,100 @@ body {
     left: -0.15rem;
     top: -0.06rem;
 }
+
+.partner-card {
+    width: 222px; 
+    background-color: transparent; 
+    border: 0px;
+    margin-right: 20px;
+}
+
+.partner-card p {
+    color: #BBBBBB;
+    font-family: "NeueHaasGroteskText Pro";
+    font-size: 27.13px;
+    letter-spacing: -0.69px;
+    line-height: 24.41px;
+    margin: 20px 0;
+}
+
+.partner-logo {
+    width: 222px;
+    height: 222px;
+    background-color: #fff;
+    border-radius: 9.77px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.none-studio {
+    background-image: url('../images/none_studio.png');
+}
+
+.room-of-opportunity {
+    background-image: url('../images/roo.png');
+}
+
+.hyazinth {
+    background-image: url('../images/hyazinth.png');
+}
+
+.service-blue-print {
+    background-image: url('../images/service_blue_print.png');
+}
+
+.marcel-jurado {
+    background-image: url('../images/marcel_jurado.png');
+}
+
+.partnership-card {
+    background-color: transparent; 
+    border: 0px;
+}
+
+.partnership-col-left {
+    background-color: #111;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.partnership-header {
+    width: 584px;
+    margin: 67px 67px 13px 78px;
+    color: #FFF;
+    font-family: "NeueHaasGroteskText Pro";
+    font-size: 46px;
+    letter-spacing: -0.64px;
+    line-height: 57px;
+}
+
+.partnership-sub-header {
+    margin: 0 0 53px 78px;
+    color: #FFF;
+    font-family: "NeueHaasGroteskText Pro";
+    font-size: 15px;
+    letter-spacing: -0.21px;
+    line-height: 19px;
+}
+
+.partnership-sub-header2 {
+    width: 160px;
+    text-align: center;
+    margin-top: 18px;
+    color: #FFF;
+    font-family: "NeueHaasGroteskText Pro";
+    font-size: 15px;
+    letter-spacing: -0.21px;
+    line-height: 19px;
+}
+
+.partnership-col-right {
+    background-color: #111;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.partnership-col-right p {
+
+}
